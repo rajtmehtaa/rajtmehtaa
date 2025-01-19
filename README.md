@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajtmehtaa&label=Profile%20views&color=0e75b6&style=flat" alt="rajtmehtaa" /> </p>
 
-- 🌱 I’m currently learning **DevOps and Tools**
+- 🌱 I’m currently learning **About AI tools revolutionizing Data Engineering **
 
 - 📫 How to reach me **rajtmehta12@gmail.com**
 
